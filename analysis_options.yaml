@@ -1,0 +1,6 @@
+include: package:lint/analysis_options.yaml
+
+analyzer:
+  errors:
+    avoid_print: ignore
+    import_of_legacy_library_into_null_safe: ignore

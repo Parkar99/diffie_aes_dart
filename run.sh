@@ -1,0 +1,1 @@
+dart --no-sound-null-safety run bin/e2ee.dart
